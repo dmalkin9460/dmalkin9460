@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Active Directory Lab](https://github.com/dmalkin9460/REPONAME)
+- [Active Directory Lab](https://github.com/dmalkin9460/ActiveDirectoryLab)
 
 <h2>📄 Certifications</h2>
 
